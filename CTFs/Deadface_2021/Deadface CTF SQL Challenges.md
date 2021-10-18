@@ -1,7 +1,7 @@
 ---
 tags: [CTF]
 title: Deadface CTF SQL Challenges
-created: '2021-10-18T13:17:51.361Z''
+created: '2021-10-18T13:17:51.361Z'
 ---
 
 # Deadface CTF SQL Challenges
